@@ -6,7 +6,7 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
 - [A sample link](https://example/) by [Author](#people)
 
@@ -19,6 +19,8 @@
 ## Books
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 
@@ -55,4 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
 

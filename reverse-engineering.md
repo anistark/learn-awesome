@@ -23,6 +23,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -50,6 +52,8 @@
 ## People
 
 ## Q&A
+
+- [Reverse engineering](https://reverseengineering.stackexchange.com)
 
 ## Quotes
 

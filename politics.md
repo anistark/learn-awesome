@@ -31,6 +31,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -57,7 +59,9 @@
 
 ## People
 
-## Q&A
+## Q&
+
+- [Politics](http://politics.stackexchange.com)
 
 ## Quotes
 
@@ -66,3 +70,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Politics)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Politics)

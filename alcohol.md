@@ -18,6 +18,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -47,6 +49,7 @@
 ## Q&A
 
 - [Beer wine and & spirits](https://alcohol.stackexchange.com)
+- [Homebrewing](https://homebrew.stackexchange.com)
 
 ## Quotes
 

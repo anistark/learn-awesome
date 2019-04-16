@@ -20,6 +20,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -45,6 +47,8 @@
 ## People
 
 ## Q&A
+
+- [Movies](https://www.quora.com/topic/Movies)
 
 ## Research Papers
 

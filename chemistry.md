@@ -25,6 +25,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -52,6 +54,8 @@
 ## People
 
 ## Q&A
+
+- [Chemistry](https://chemistry.stackexchange.com)
 
 ## Research Papers
 

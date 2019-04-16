@@ -56,6 +56,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -84,6 +86,8 @@
 ## People
 
 ## Q&A
+
+- [History](http://history.stackexchange.com)
 
 ## Research Papers
 

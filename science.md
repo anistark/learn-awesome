@@ -12,6 +12,7 @@
 
 ## Audio, Podcasts
 
+- [Everything Under The Sun (BBC podcast answering questions from kids)](https://podcasts.apple.com/gb/podcast/everything-under-the-sun/id1442273607?mt=2) by Molly Oldfield
 ## Blogs
 
 ## Books
@@ -25,6 +26,8 @@
 
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 
@@ -62,6 +65,12 @@
 ## People
 
 ## Q&A
+
+- [Science](https://www.quora.com/topic/Science)
+- [Skeptics](https://skeptics.stackexchange.com)
+- [Science fiction & fantasy](https://scifi.stackexchange.com)
+- [Cognitive sciences](https://cogsci.stackexchange.com)
+- [Computational science](https://scicomp.stackexchange.com)
 
 ## Quotes
 

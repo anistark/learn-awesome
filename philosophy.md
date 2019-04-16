@@ -25,8 +25,11 @@
 - [📕 The stuff of thought (2007)](http://www.goodreads.com/book/show/373969.The_Stuff_of_Thought)
 - [Sophie's World](https://www.goodreads.com/book/show/10959.Sophie_s_World?ac=1&from_search=true) by Jostein Gaarder
 - [The Story of Philosophy](https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy) by [Will Durant](#people)
+- [Siddhartha] (https://www.goodreads.com/book/show/52036.Siddhartha?ac=1&from_search=true)
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 
@@ -57,6 +60,9 @@
 - Will Durant ([goodreads](https://www.goodreads.com/author/show/16184.Will_Durant), [wikipedia](https://en.wikipedia.org/wiki/Will_Durant))
 
 ## Q&A
+
+- [Quora](https://www.quora.com/topic/Philosophy)
+- [Stack Exchange](https://philosophy.stackexchange.com)
 
 ## Quotes
 

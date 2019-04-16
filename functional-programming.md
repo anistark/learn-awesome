@@ -35,6 +35,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -64,6 +66,8 @@
 ## People
 
 ## Q&A
+
+- [Functional programming](https://www.quora.com/topic/Functional-Programming)
 
 ## Research Papers
 

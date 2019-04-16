@@ -1,9 +1,14 @@
+![Never stop learning](header.jpg?raw=true)
+
 # learn-awesome
 
 [![Gitter](https://img.shields.io/badge/-Gitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gitter.im/learn-awesome/community)
 [![Twitter](https://img.shields.io/badge/-Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://twitter.com/learn_awesome)
 
 #### Awesome learning resources organized by topics, formats and difficulty.
+
+<a href="https://www.producthunt.com/posts/learn-awesome?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-learn-awesome" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=150963&theme=light" alt="Learn Awesome - Awesome links from the Web by topics, formats & difficulty | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 
 ## What is learn-awesome?
 
@@ -13,13 +18,38 @@ We have collected links for [life](life.md), [learning](learning.md), [thinking]
 
 We also have [math](math.md), [abstract algebra](abstract-algebra.md), [science](science.md), [physics](physics.md), [chemistry](chemistry.md) & [biology](biology.md) among others.
 
-A lot of our current users are programmers. And so we have: [Git](git.md), [algorithms](algorithms.md), [artificial intelligence](artificial-intelligence.md), [compilers](compilers.md), [computer science](computer-science.md), [computer security](computer-security.md), [computer vision](computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](deep-learning.md), [machine learning](machine-learning.md), and [programming](programming.md).
+A lot of our current users are programmers. And so we have: [Git](git.md), [algorithms](computer-science/algorithms.md), [artificial intelligence](computer-science/artificial-intelligence.md), [compilers](computer-science/compilers.md), [computer science](computer-science/computer-science.md), [computer security](computer-science/computer-security.md), [computer vision](computer-science/computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](computer-science/deep-learning.md), [machine learning](computer-science/machine-learning.md), and [programming](programming.md). And of course a whole bunch of [programming languages](programming-languages/)! :-)
 
-For hobbies, we currently have [magic](magic.md), [music](music.md) & [photography](photography.md). 
+For hobbies, we currently have [magic](magic.md), [music](music.md) & [photography](photography.md). We're now starting to curate links for a few [human languages](human-languages) as well.
 
 You should join us to expand and improve our collection! Use this [template](template.md) to create a page for a new topic and send us a pull request. For discussions, come over to [Gitter](https://gitter.im/learn-awesome/). Happy learning :-)
 
 ---
+
+## Contributing
+
+- Always put the learner first.
+- Have a high bar for quality. The Internet is full of awesome things as well as less-than-awesome things.
+- Only add links you think are awesome.
+- Do not promote your own books / articles / videos etc. If it's good, it will show up.
+- Remove any affiliate codes etc from the links.
+- Search existing resources/links before adding a new one, as yours may be a duplicate.
+- Paid resources (like courses) are okay, but they should be marked as `paid`. Remember, quality is the first criteria.
+- Try to add this metadata with every link whenever relevant:
+  - Year (to know how old a resource is)
+  - Estimated time it will take to complete (reading, watching, completing course exercises etc.)
+  - Difficulty level (beginner / intermediate / expert)
+  - Author. Add them in `people` section whenever they're worth following for that topic.
+- *Use the following format: `[Name](link) (Year, Time Estimate, Difficulty level) by Author - Description.`*
+- If you want to add notes to a course, add it below the course as subdashed point.
+- Links should be put into their appropriate topics & formats. Pick the one you think is closest if you are not sure.
+- Build a useful concept graph by specifying prerequisites and subtopics. This is often hard.
+- For a new topic, start with this [template](template.md).
+- New categories or improvements to the existing categorization are welcome.
+- Check your spelling and grammar.
+- Discuss your ideas & questions over at [Gitter](https://gitter.im/learn-awesome/).
+
+Thank you for your suggestions! 💜
 
 ## Future
 

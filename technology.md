@@ -27,6 +27,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -60,6 +62,8 @@
 ## People
 
 ## Q&A
+
+- [Technology](https://www.quora.com/topic/Technology)
 
 ## Quotes
 

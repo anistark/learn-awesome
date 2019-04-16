@@ -12,6 +12,7 @@
 
 - [Make Your Own Rules](https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/) by [Venkatesh Rao](#people)
 - [Modes of Living](https://invertedpassion.com/modes-of-living/) by [Paras Chopra](#people)
+- [A Natural History of Beauty](https://meltingasphalt.com/a-natural-history-of-beauty/)
 
 ## Audio, Podcasts
 
@@ -25,6 +26,8 @@
 - [The Meaning of Life: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780199532179.001.0001/actrade-9780199532179?rskey=rtROx3&result=368)
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 
@@ -53,6 +56,8 @@
 ## People
 
 ## Q&A
+
+- [Personal productivity Stack Exchange](https://productivity.stackexchange.com)
 
 ## Research Papers
 

@@ -22,6 +22,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -52,8 +54,12 @@
 
 ## Q&A
 
+- [Gamedev](https://gamedev.stackexchange.com)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Video_game_development)

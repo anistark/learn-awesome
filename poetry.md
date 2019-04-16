@@ -21,6 +21,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -48,6 +50,8 @@
 ## People
 
 ## Q&A
+
+- [Poetry](https://www.quora.com/topic/Poetry)
 
 ## Quotes
 

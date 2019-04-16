@@ -26,6 +26,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -63,6 +65,8 @@
 ## People
 
 ## Q&A
+
+- [Web applications](https://webapps.stackexchange.com)
 
 ## Quotes
 

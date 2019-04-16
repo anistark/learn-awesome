@@ -8,6 +8,8 @@
 
 ## Apps
 
+- [Generative.fm - Endlessly unique ambient music](https://generative.fm/)
+
 ## Articles
 
 ## Audio, Podcasts
@@ -18,15 +20,19 @@
 
 - [Music: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192853820.001.0001/actrade-9780192853820?rskey=sBHDD5&result=409)
 - [📕 Harmony for Computer Musicians (2010)](https://www.goodreads.com/book/show/8441567-harmony-for-computer-musicians)
-
+- [How Music Works](https://www.goodreads.com/book/show/13235689-how-music-works) by David Byrne
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 
 ## Conferences
 
 ## Courses
+
+
 
 ## Forums, Group chats
 
@@ -61,6 +67,8 @@
 
 ## Q&A
 
+- [Stack Exchange](http://music.stackexchange.com)
+
 ## Quotes
 
 ## Research Papers
@@ -68,3 +76,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Music)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Music)

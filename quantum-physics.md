@@ -21,6 +21,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -52,6 +54,8 @@
 ## Quotes
 
 ## Research Papers
+
+- [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
 
 ## Videos, Documentaries & Films
 

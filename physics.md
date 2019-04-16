@@ -40,6 +40,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -53,6 +55,8 @@
 ## Images
 
 ## Interactives
+
+- [Physics Classroom](https://www.physicsclassroom.com/)
 
 ## Journals
 
@@ -72,6 +76,8 @@
 
 ## Q&A
 
+- [Physics](http://physics.stackexchange.com)
+
 ## Research Papers
 
 - [Hamiltonian for the zeros of the Riemann Zeta function (2016)](https://arxiv.org/abs/1608.03679)
@@ -90,7 +96,11 @@
 - [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? (1935)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777)
 - [Possible Existence of a Neutron (1932)](http://web.mit.edu/22.54/resources/Chadwick.pdf)
 - [On the electrodynamics of moving bodies (1905)](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1905_relativity.pdf)
+- [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Physics)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Physics)

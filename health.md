@@ -28,11 +28,15 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
 
 ## Courses
+
+- [Science of Exercise](https://www.coursera.org/learn/science-exercise)
 
 ## Forums, Group chats
 
@@ -63,7 +67,9 @@
 
 ## People
 
-## Q&A
+## Q&
+
+- [Physical fitness](http://fitness.stackexchange.com)
 
 ## Quotes
 

@@ -6,7 +6,7 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
 ## Articles
 
@@ -27,6 +27,8 @@
 
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 
@@ -56,7 +58,11 @@
 
 ## Q&A
 
+## Quotes
+
 ## Research Papers
+
+- [Could a Neuroscientist Understand a Microprocessor?](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005268&type=printable)
 
 ## Videos, Documentaries & Films
 

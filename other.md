@@ -72,6 +72,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -233,6 +235,7 @@
 ## People
 
 ## Q&A
+
 
 ## Quotes
 

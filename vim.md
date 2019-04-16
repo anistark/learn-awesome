@@ -27,6 +27,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -54,6 +56,8 @@
 ## People
 
 ## Q&A
+
+- [Vim](https://www.quora.com/topic/Vim-text-editor)
 
 ## Quotes
 

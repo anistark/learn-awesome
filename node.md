@@ -23,6 +23,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -50,6 +52,8 @@
 ## People
 
 ## Q&A
+
+- [Node.js](https://www.quora.com/topic/Node-js)
 
 ## Quotes
 

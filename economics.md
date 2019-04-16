@@ -34,6 +34,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences
@@ -60,8 +62,13 @@
 
 ## Q&A
 
+- [Economics](https://www.quora.com/topic/Economics)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Economics)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Economics)
